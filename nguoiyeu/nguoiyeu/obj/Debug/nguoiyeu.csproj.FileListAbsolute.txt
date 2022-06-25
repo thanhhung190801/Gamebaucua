@@ -1,0 +1,10 @@
+D:\long_mangmaytinh\nguoiyeu\nguoiyeu\bin\Debug\nguoiyeu.exe.config
+D:\long_mangmaytinh\nguoiyeu\nguoiyeu\bin\Debug\nguoiyeu.exe
+D:\long_mangmaytinh\nguoiyeu\nguoiyeu\bin\Debug\nguoiyeu.pdb
+D:\long_mangmaytinh\nguoiyeu\nguoiyeu\obj\Debug\nguoiyeu.csprojAssemblyReference.cache
+D:\long_mangmaytinh\nguoiyeu\nguoiyeu\obj\Debug\nguoiyeu.Form1.resources
+D:\long_mangmaytinh\nguoiyeu\nguoiyeu\obj\Debug\nguoiyeu.Properties.Resources.resources
+D:\long_mangmaytinh\nguoiyeu\nguoiyeu\obj\Debug\nguoiyeu.csproj.GenerateResource.cache
+D:\long_mangmaytinh\nguoiyeu\nguoiyeu\obj\Debug\nguoiyeu.csproj.CoreCompileInputs.cache
+D:\long_mangmaytinh\nguoiyeu\nguoiyeu\obj\Debug\nguoiyeu.exe
+D:\long_mangmaytinh\nguoiyeu\nguoiyeu\obj\Debug\nguoiyeu.pdb
